@@ -74,15 +74,17 @@ RETURN
   The Power BI dashboard analyzes AdventureWorks sales data through interactive visualizations and KPI cards.
 
 ## Repository Structure
+
 Operational-Performance-Dashboard/
-│
 ├── Project_TV.pbix
 ├── README.md
-│
+├── Screenshots/
+│   └── dashboard.png
 └── SQL/
     ├── vw_RegionalRevenue.sql
     ├── vw_MonthlyRevenue.sql
     └── vw_TopProducts.sql
+
 ## Dataset
 
   This project uses the Microsoft AdventureWorks2022 sample database for demonstration and analytical purposes.

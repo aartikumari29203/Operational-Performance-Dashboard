@@ -82,7 +82,7 @@ The Power BI dashboard analyzes AdventureWorks sales data through interactive vi
 ```text
 Operational-Performance-Dashboard/
 │
-├── Project_TV.pbix
+├── Operational_Performance_Dashboard.pbix
 ├── README.md
 ├── Screenshots/
 │   └── dashboard.png

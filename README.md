@@ -106,4 +106,3 @@ This project uses the Microsoft AdventureWorks2022 sample database for demonstra
 - DAX-based KPI calculation
 - Interactive business reporting
 
-

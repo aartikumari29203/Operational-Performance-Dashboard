@@ -69,6 +69,8 @@ RETURN
         CurrentRevenue - PreviousYearRevenue,
         PreviousYearRevenue
     )
+```
+
 ## Dashboard Preview
 
 The Power BI dashboard analyzes AdventureWorks sales data through interactive visualizations and KPI cards.
@@ -103,4 +105,5 @@ This project uses the Microsoft AdventureWorks2022 sample database for demonstra
 - Power BI dashboard development
 - DAX-based KPI calculation
 - Interactive business reporting
+
 
